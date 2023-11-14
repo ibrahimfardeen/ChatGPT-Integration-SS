@@ -1,1 +1,19 @@
 # ChatGPT-Integration-SS
+
+1. Download the code and extract the zip file
+2. We have used the SSDK component for this project familiarize yourself with <a href="https://sdk.surveysparrow.dev/">SSDK<a> documentaion
+3. Go through the SSDK documentation and make sure you meet the initial requirements for running the project
+    # for nvm -v
+    0.38.0
+    # for node -v
+    v18.12.0
+    # for npm -v
+    9.5.1
+    # for ssdk version
+    0.1.1
+   
+5. Open the terminal in the project file
+6. Type in the command "npm i" to install the dependency files
+7. Then type "ssdk run" to start the app in the development server
+8. Now open your browser enter the link, and make sure to replace it with your actual domain name "https://your_domain_name.surveysparrow.com/settings/marketplace-apps?dev=true"
+9. Now you can see your app running in the given link
