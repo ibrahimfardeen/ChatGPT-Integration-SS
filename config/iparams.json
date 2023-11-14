@@ -1,1 +1,13 @@
-{}
+{
+    "surveysparrow_api_key": {
+      "display_name": "SurveySparrow API Key",
+      "description": "prKPdWexCzx6vOpQqylzdh4h-eGIyByOUEgLz3SFJxb8BD5KuyJSskoiYhgU2mw-ipewUHvmZdHwlnmrmkoRnvXA",
+      "data-bind": "product.api_key",
+      "required": true,
+      "secure": true,
+      "type": "api_key",
+      "type_attributes": {
+        "product": "surveysparrow"
+      }
+    }
+  }

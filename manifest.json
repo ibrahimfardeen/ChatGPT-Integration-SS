@@ -10,7 +10,12 @@
       }
     }
   },
-  "whitelisted-domains": [],
+  "whitelisted-domains": [
+    "http://(.*).surveysparrow.test(.*)",
+    "https://(.*).surveysparrow.com(.*)",
+    "https://(.*).surveySparrow.com(.*)",
+    "https://api.openai.com/v1/chat/completions"
+  ],
   "engines": {
     "node": "18.14.0",
     "ssdk": "0.1.5"
