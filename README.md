@@ -1,15 +1,15 @@
 # ChatGPT-Integration-SS
 
 1. Download the code and extract the zip file
-2. We have used the SSDK component for this project familiarize yourself with <a href="https://sdk.surveysparrow.dev/">SSDK<a> documentaion
+2. We have used the SSDK component for this project so familiarize yourself with <a href="https://sdk.surveysparrow.dev/">SSDK<a> documentation
 3. Go through the SSDK documentation and make sure you meet the initial requirements for running the project
-    # for nvm -v
+    for nvm -v
     0.38.0
-    # for node -v
+    for node -v
     v18.12.0
-    # for npm -v
+    for npm -v
     9.5.1
-    # for ssdk version
+    for ssdk version
     0.1.1
    
 5. Open the terminal in the project file
