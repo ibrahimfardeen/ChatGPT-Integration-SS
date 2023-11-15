@@ -3,15 +3,15 @@
 1. Download the code and extract the zip file
 2. We have used the SSDK component for this project so familiarize yourself with <a href="https://sdk.surveysparrow.dev/">SSDK<a> documentation
 3. Go through the SSDK documentation and make sure you meet the initial requirements for running the project
-    for nvm -v
-    0.38.0
-    for node -v
-    v18.12.0
-    for npm -v
-    9.5.1
-    for ssdk version
-    0.1.1
-   
+
+    $ for nvm -v <br>
+      0.38.0 <br>
+    $ for node -v <br>
+      v18.12.0 <br>
+    $ for npm -v <br>
+      9.5.1 <br>
+    $ for ssdk version <br>
+      0.1.1 
 5. Open the terminal in the project file
 6. Type in the command "npm i" to install the dependency files
 7. Then type "ssdk run" to start the app in the development server
